@@ -1,6 +1,6 @@
 package com.example.springsecuritydemo.security;
 
-import com.example.springsecuritydemo.exeptions.JwtAuthenticationException;
+import com.example.springsecuritydemo.exceptions.JwtAuthenticationException;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Component;

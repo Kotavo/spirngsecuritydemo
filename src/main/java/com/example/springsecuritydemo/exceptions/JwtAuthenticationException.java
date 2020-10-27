@@ -1,4 +1,4 @@
-package com.example.springsecuritydemo.exeptions;
+package com.example.springsecuritydemo.exceptions;
 
 
 import lombok.Getter;
